@@ -6,7 +6,7 @@
 
 | Opção | Exercício |
 | :---: | :--- |
-| 1 | [Exercício 1](PrimeiraQuestao.java) |
+| 1 | [Exercício 1](PrimeiroQuestao.java) |
 | 2 | [Exercício 2](SegundaQuestao.java) |
 | 3 | [Exercício 3](TerceiraQuestao.java) |
 | 4 | [Exercício 4](QuartaQuestao.java) |
